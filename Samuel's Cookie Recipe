@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Samuel's Recipe</title>
+</head>
+<body>
+    <h1>Cookie Recipe</h1>
+    <h2>By: Samuel Solis</h2>
+    
+    <h3>Ingredients:</h3>
+    <ul>
+        <li>Dough</li>
+        <li>Eggs</li>
+        <li>Milk</li>
+        <li>Chocolate Chips</li>
+        <li>Sugar</li>
+
+    </ul>
+    
+    <h3>Instructions:</h3>
+    <ol>
+        <li>Mix Everything</li>
+        <li>Bake</li>
+        <li>Add more...</li>
+    </ol>
+    
+    <p>Cooking time: 15 minutes</p>
+    <p>Serves: 10 people</p>
+</body>
+</html>
