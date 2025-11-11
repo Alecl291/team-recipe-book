@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hamza's Shawarma</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Authentic Shawarma by Hamza Shakur</h1>
+    <h2>By: Hamza Shakur (EUID: 0062)</h2>
+
+    <h3>Ingredients (serves 4):</h3>
+    <ul>
+        <li>1 kg chicken thigh fillets</li>
+        <li>5 garlic cloves, crushed</li>
+        <li>2 tbsp yogurt</li>
+        <li>1 tbsp lemon juice</li>
+        <li>2 tsp cumin, 2 tsp paprika, 1 tsp cinnamon</li>
+        <li>Pita bread, garlic sauce, pickles, fries</li>
+    </ul>
+
+    <h3>Instructions:</h3>
+    <ol>
+        <li>Marinate chicken overnight in all spices + yogurt</li>
+        <li>Stack on vertical rotisserie or grill pan</li>
+        <li>Shave thin slices as it cooks</li>
+        <li>Wrap in pita with garlic sauce & pickles</li>
+        <li>Serve with fries & extra garlic sauce</li>
+    </ol>
+
+    <p>Cooking time: 45 min | Difficulty: 4/5 | Serves: 4</p>
+    <p><a href="index.html">← Back to recipes</a></p>
+</body>
+</html>
